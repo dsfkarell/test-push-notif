@@ -1,6 +1,5 @@
 import { Stack } from "expo-router";
 import { View, Text } from "react-native";
-import { CoffeeAnimated } from "@/components/CoffeeAnimatedIcon";
 
 function HeaderTitle() {
   return (
